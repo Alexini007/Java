@@ -6,7 +6,6 @@ public class Horse {
         setName(name);
         setColor(color);
         setBirthYear(birthYear);
-
     };
     public String getName() {
         return name;
@@ -58,8 +57,6 @@ public class Horse {
                     Wolverhampton4.getNumOfRaces());
             System.out.println("\n");
             Wolverhampton4.printRacingHorse();
-
-
         }
     }
 
